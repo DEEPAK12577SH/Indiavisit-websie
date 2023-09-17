@@ -75,13 +75,13 @@
 }
 
 .video-time {
-  font-size: 12px;
+  font-size: 22px;
   font-weight: 500;
-  padding: 4px;
-  border-radius: 2px;
-  background-color: black;
+  padding: 12px;
+  border-radius: 8px;
+  background-color: green;
   color: white;
   position: absolute;
-  bottom: 8px;
-  right: 5px;
+  bottom: 18px;
+  right: 10px;
 }
